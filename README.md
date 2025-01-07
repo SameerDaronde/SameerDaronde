@@ -59,8 +59,8 @@ I specialize in automating business processes, integrating external systems, and
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Trailhead Profile](https://trailhead.salesforce.com/en/me/yourprofile)
+- [LinkedIn](www.linkedin.com/in/sameer-daronde-924a4885)
+- [Trailhead Profile](https://trailblazer.me/id/sdaronde)
 - [Portfolio](https://yourportfolio.com)
 
 ---
