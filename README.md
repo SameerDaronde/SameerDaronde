@@ -1,5 +1,5 @@
 ![Header](./Header-Image.png)
-# Hi there, I'm [Sameer Daronde]! 👋 
+# Hi there, I'm Sameer Daronde! 👋 
 Salesforce Developer @ITNetworkz Infosystem Pvt Ltd
 
 
