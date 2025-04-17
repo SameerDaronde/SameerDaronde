@@ -1,6 +1,6 @@
 ![Header](./Header-Image.png)
 # Hi there, I'm Sameer Daronde! 👋 
-Salesforce Developer @ITNetworkz Infosystem Pvt Ltd
+Salesforce Developer @Markgenic Software Pvt. Ltd. Pune, Maharashtra.
 
 
 
